@@ -9,7 +9,8 @@ ReactDom.createRoot(document.getElementById('root')).render(
     <>
     {/* <App/> */}
     <Navbar/>
-    <Login/>
+    {/* <Login/> */}
+    <div className="bg-sky-300"><h1 className='underline'>hello</h1></div>
     </>
 
   
