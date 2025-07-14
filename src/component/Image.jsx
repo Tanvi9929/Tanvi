@@ -1,0 +1,8 @@
+const Image =()=>{
+    return(
+        <>
+    
+    
+        </>
+    )
+}
